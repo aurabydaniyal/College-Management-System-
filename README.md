@@ -11,7 +11,7 @@ Proper College Management System by using ( OPP |&amp;&amp;| DSA )  in C++
 
 ## 🛠️ Tech Stack used and How to Deploy
 
-- Save all files in one folder in same order which is in repo.
+- Save all files in one folder in order First all .h and then .cpp at Last 
 - .cpp file is the main file run it on your compiper after all other files was on same folder as .cpp
 
 - OOP and DSA is used , major focused data structure is Queue and Link List
